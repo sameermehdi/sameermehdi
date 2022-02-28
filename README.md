@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sameermehdi
-- 👀 I’m interested in Data Analytics projects using SQL and Python.
+- 👀 I’m interested in Data Analytics projects using SQL, Python and Power BI.
 - 🌱 I’m currently learning Data Science
 - 💞️  I’m looking to collaborate on Data Science projects.
 - 📫 You can reach me at sameermehdi55@gmail.com
